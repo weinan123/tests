@@ -22,4 +22,3 @@ print (u"get请求获取响应状态码",r.status_code)
 print (u'get请求获取响应头',r.headers['Content-Type'])
 json_r = r.json()
 print (json_r)
-C:\Users\nan.wei\PycharmProjects\test
